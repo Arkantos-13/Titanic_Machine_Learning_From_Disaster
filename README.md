@@ -1,5 +1,7 @@
 # Titanic_Machine-Learning-from-Disaster
 
+I am making some improvements at my project. I will upload it by the end of the weekend in its final version.
+
 AHOY DATA LOVERS,
 
 This is the legendary Titanic ML competition – the best, first challenge for you to dive into ML competitions and familiarize yourself with how the Kaggle platform works.
