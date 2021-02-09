@@ -1,4 +1,4 @@
-# Titanic_Machine-Learning-from-Disaster
+# Titanic_Machine_Learning_from_Disaster
 
 I am making some improvements at my project. I will upload it by the end of the weekend in its final version.
 
