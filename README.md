@@ -1,4 +1,5 @@
-# Titanic_Machine_Learning_from_Disaster
+
+<h3 align="center"> Titanic Machine Learning from Disaster <hr></h1></h3>
 
 AHOY DATA LOVERS,
 
